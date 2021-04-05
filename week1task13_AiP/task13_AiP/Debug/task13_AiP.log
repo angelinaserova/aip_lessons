@@ -1,0 +1,4 @@
+﻿  task13_AiP.cpp
+C:\Users\RBT\source\repos\task13_AiP\task13_AiP\task13_AiP.cpp(8,20): warning C4101: zakup_b: неиспользованная локальная переменная
+C:\Users\RBT\source\repos\task13_AiP\task13_AiP\task13_AiP.cpp(8,11): warning C4101: zakup_a: неиспользованная локальная переменная
+  task13_AiP.vcxproj -> C:\Users\RBT\source\repos\task13_AiP\Debug\task13_AiP.exe

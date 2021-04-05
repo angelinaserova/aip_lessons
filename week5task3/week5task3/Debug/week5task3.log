@@ -1,0 +1,3 @@
+﻿  week5task3.cpp
+C:\Users\RBT\source\repos\week5task3\week5task3\week5task3.cpp(18,13): warning C4305: =: усечение из "double" в "float"
+  week5task3.vcxproj -> C:\Users\RBT\source\repos\week5task3\Debug\week5task3.exe
