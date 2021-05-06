@@ -1,0 +1,3 @@
+﻿  week7task8.cpp
+C:\Users\RBT\source\repos\week7task8\week7task8\week7task8.cpp(14,26): warning C4305: инициализация: усечение из "double" в "float"
+  week7task8.vcxproj -> C:\Users\RBT\source\repos\week7task8\Debug\week7task8.exe
